@@ -1,0 +1,4 @@
+imageio
+ilya_ezplot
+tensorflow=1.14
+numpy
